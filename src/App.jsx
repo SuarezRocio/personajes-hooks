@@ -20,6 +20,7 @@ const MainContainer = styled.main`
 
 const Logo = styled.img`
   width: 400px;
+  border-radius: 10%;
 `;
 
 function App() {
