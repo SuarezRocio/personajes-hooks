@@ -3,7 +3,9 @@ import styled from 'styled-components';
 const CardContainer = styled.div`
   width: 220px;
   height: 350px;
-  border: 1px solid black;
+  border: 10px solid purple;
+  background-color: #d345f371;
+  border-radius: 5%;
   margin: 10px;
   padding: 5px;
 `;

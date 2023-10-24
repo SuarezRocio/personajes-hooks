@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const CardContainer = styled.div`
-  border: 1px solid #ccc;
+  border: 10px solid  lightseagreen;
   padding: 16px;
   margin: 16px;
   width: 300px;
@@ -16,7 +16,7 @@ const P = styled.div`
   padding: 16px;
   margin: 16px;
   text-align: center;
-  font-size: 12px;
+  font-size: 20px;
 `;
 
 

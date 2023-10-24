@@ -14,6 +14,8 @@ const MainContainer = styled.main`
   flex-direction: column;
   font-family: Arial, Helvetica, sans-serif;
   align-items: center;
+  background-color: #d345f371;
+  background-image: url("./assets/download.JPG")
 `;
 
 const Logo = styled.img`
